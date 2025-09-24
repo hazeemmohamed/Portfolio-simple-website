@@ -1,12 +1,12 @@
-# Portfolio Website
+# My Portfolio Website
 
-This is a simple **portfolio website** built using **HTML** and **basic CSS**.  
-It contains two main pages:
+Welcome to my **portfolio website**. This project is a clean and simple web application built using **HTML** and **CSS**.  
 
-- **Home Page** – A brief introduction about me and my work.
-- **Contact Page** – A simple form where visitors can reach out to me.
+It includes:  
+- **Home Page** – Introduces me and highlights my work.  
+- **Contact Page** – Provides an easy way for visitors to get in touch.  
 
-This project helped me practice the fundamentals of web development, including creating structured layouts with HTML and styling them using CSS.
+This project demonstrates my ability to design and structure web pages with responsive layouts and consistent styling, reflecting foundational web development skills.
 
 ## 🛠️ Technologies Used
 - HTML  
@@ -17,8 +17,7 @@ This project helped me practice the fundamentals of web development, including c
 - `contact.html` – Contact page  
 - `style.css` – Stylesheet
 
-## 📸 Preview
-(You can add a screenshot of your site here)
+
 
 ## 🚀 How to View
 You can access my portfolio website by visiting [git clone https://github.com/your-username/your-repo-name.git]
