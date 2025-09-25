@@ -20,6 +20,6 @@ This project demonstrates my ability to design and structure web pages with resp
 
 
 ## 🚀 How to View
-You can access my portfolio website by visiting [git clone https://github.com/your-username/your-repo-name.git]
+You can access my portfolio website by visiting https://hazeemmohamed.github.io/Portfolio-simple-website/
 
 Thank you for visiting my portfolio website!
